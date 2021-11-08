@@ -18,6 +18,7 @@ You need Gradle, or Maven, or other build tool.
 ## Related
 
 * [python-ruwordnet](https://github.com/avidale/python-ruwordnet)
+* [wordnet clients (english)](en-wordnet-clients.pdf)
 
 
 
