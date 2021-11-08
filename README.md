@@ -1,5 +1,9 @@
 # RuWordNet for Java & Kotlin
 
+## Status
+
+In development
+
 ## Download
 
 You need Gradle, or Maven, or other build tool.
@@ -9,8 +13,11 @@ You need Gradle, or Maven, or other build tool.
 ## Usage
 
 ```kotlin
-usage.example.placeholder()
 ```
+
+## Related
+
+* [python-ruwordnet](https://github.com/avidale/python-ruwordnet)
 
 
 
