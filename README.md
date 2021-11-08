@@ -1,14 +1,10 @@
-# Library
-
-Java library template written in the Kotlin language.
+# RuWordNet for Java & Kotlin
 
 ## Download
 
 You need Gradle, or Maven, or other build tool.
 
-[![](https://jitpack.io/v/demidko/library.svg)](https://jitpack.io/#demidko/library)
-
-See also [JitPack documentation](https://jitpack.io/docs/#publishing-on-jitpack).
+[![](https://jitpack.io/v/demidko/ruwordnet.svg)](https://jitpack.io/#demidko/ruwordnet)
 
 ## Usage
 
