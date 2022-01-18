@@ -1,24 +1,27 @@
-# RuWordNet for Java & Kotlin
+# RuWordNet
 
-## Status
+Тезарус русского языка [RuWordNet](https://ruwordnet.ru) для Java и Kotlin.
 
-In development
+## Как подключить?
 
-## Download
-
-You need Gradle, or Maven, or other build tool.
+Вам понадобится Gradle или Maven, или другая система сборки.
 
 [![](https://jitpack.io/v/demidko/ruwordnet.svg)](https://jitpack.io/#demidko/ruwordnet)
 
-## Usage
+## Как использовать?
 
 ```kotlin
+import com.github.demidko.ruwordnet
+
+fun main() {
+    
+}
 ```
 
-## Related
+## Полезные ссылки
 
-* [python-ruwordnet](https://github.com/avidale/python-ruwordnet)
-* [wordnet clients (english)](en-wordnet-clients.pdf)
+* [библиотека ruwordnet для Python](https://github.com/avidale/python-ruwordnet)
+* [Сравнение Java реализаций wordnet](https://projects.csail.mit.edu/jwi/download.php?f=finlayson.2014.procgwc.7.78.pdf)
 
 
 
