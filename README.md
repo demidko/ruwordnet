@@ -11,8 +11,6 @@
 ## Как использовать?
 
 ```kotlin
-import com.github.demidko.ruwordnet
-
 fun main() {
     
 }
@@ -20,8 +18,8 @@ fun main() {
 
 ## Полезные ссылки
 
-* [библиотека ruwordnet для Python](https://github.com/avidale/python-ruwordnet)
-* [Сравнение Java реализаций wordnet](https://projects.csail.mit.edu/jwi/download.php?f=finlayson.2014.procgwc.7.78.pdf)
+* [RuWordNet для Python](https://github.com/avidale/python-ruwordnet)
+* [Сравнение Java реализаций WordNet](https://projects.csail.mit.edu/jwi/download.php?f=finlayson.2014.procgwc.7.78.pdf)
 
 
 
